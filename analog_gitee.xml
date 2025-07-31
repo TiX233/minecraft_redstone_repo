@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="gitee" fetch="ssh://git@gitee.com/TiX233"/>
+    <default revision="master" remote="gitee" sync-j="4"/>
+    
+    <!-- 红石线 -->
+    <project name="minecraft_redstone_line.git" path="rs_line" revision="master"/>
+    <!-- 红石中继器 -->
+    <project name="minecraft_redstone_repeater.git" path="rs_repeater" revision="master"/>
+
+    <!-- 更多项目... -->
+
+</manifest>
