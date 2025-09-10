@@ -8,7 +8,7 @@
 
 效果演示：[【Bilibili】红石中继器进度报告](https://www.bilibili.com/video/BV1awhPzsEa1)
 
-硬件开源地址：[【Oshwhub】@realTiX - 我的世界红石_模拟方案](https://oshwhub.com/realtix/mc_redstone_analog)
+硬件开源地址：[【Oshwhub】@realTiX - 我的世界红石_数字方案](https://oshwhub.com/realtix/minecraft_redstone_digital)
 
 ## 二、仓库介绍
 
@@ -24,7 +24,7 @@
 **repo 初始化**  
 
 ```shell
-repo init -u https://gitee.com/TiX233/minecraft_redstone_repo -b master -m analog_gitee.xml
+repo init -u https://gitee.com/TiX233/minecraft_redstone_repo -b master -m digital_gitee.xml
 ```
 
 **repo 同步**  

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="gitee" fetch="ssh://git@gitee.com/TiX233"/>
+    <default revision="master" remote="gitee" sync-j="4"/>
+    
+    <!-- 红石线 -->
+    <project name="minecraft_redstone_wire_digital.git" path="redstone_line" revision="master"/>
+    <!-- 红石系统供电器 -->
+    <project name="minecraft_redstone_power_digital.git" path="redstone_power" revision="master"/>
+    <!-- 拉杆 -->
+    <project name="minecraft_redstone_lever_digital.git" path="redstone_lever" revision="master"/>
+
+    <!-- 更多项目... -->
+
+</manifest>
