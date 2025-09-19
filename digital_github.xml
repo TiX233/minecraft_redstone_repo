@@ -4,7 +4,7 @@
     <default revision="master" remote="github" sync-j="4"/>
     
     <!-- 红石线 -->
-    <project name="minecraft_redstone_wire_digital.git" path="redstone_line" revision="master"/>
+    <project name="minecraft_redstone_wire_digital.git" path="redstone_wire" revision="master"/>
     <!-- 红石系统供电器 -->
     <project name="minecraft_redstone_power_digital.git" path="redstone_power" revision="master"/>
     <!-- 拉杆 -->
