@@ -9,6 +9,8 @@
     <project name="minecraft_redstone_power_digital.git" path="redstone_power" revision="master"/>
     <!-- 拉杆 -->
     <project name="minecraft_redstone_lever_digital.git" path="redstone_lever" revision="master"/>
+    <!-- 按钮 -->
+    <project name="minecraft_redstone_button_digital.git" path="redstone_button" revision="master"/>
 
     <!-- 更多项目... -->
 
